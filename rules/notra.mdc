@@ -1,0 +1,13 @@
+---
+description: Use Notra MCP tools and skills when generating or managing changelogs, brand voice, writing skills, schedules, or GEO visibility.
+alwaysApply: false
+---
+
+When the user asks about Notra, changelogs from GitHub activity, brand voice, reusable writing skills, or GEO visibility:
+
+1. Prefer the connected Notra MCP server over inventing REST calls.
+2. Follow the `notra` skill, then the matching specialized skill.
+3. Confirm before destructive or billed actions (delete, publish, GEO scans, sequence runs, content briefs).
+4. Never commit API keys or GitHub tokens. Store them only in plugin config or `NOTRA_API_KEY`.
+5. Keep generated drafts as `draft` until the user asks to publish.
+6. Fetch current docs from https://docs.usenotra.com/llms.txt when behavior is unclear.
