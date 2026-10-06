@@ -2,7 +2,7 @@
 
 [Notra](https://www.usenotra.com) turns shipped work — merged PRs, releases, commits, Linear issues — into draft changelogs, blog posts, and social updates in your brand voice.
 
-This plugin packages the [hosted Notra MCP server](https://docs.usenotra.com/devtools/mcp), Cursor skills, slash commands, a content agent, and a rule so an agent can operate a Notra workspace from Cursor.
+This plugin packages the [hosted Notra MCP server](https://www.usenotra.com/docs/devtools/mcp), Cursor skills, slash commands, a content agent, and a rule so an agent can operate a Notra workspace from Cursor.
 
 ## What you get
 
@@ -99,10 +99,10 @@ Event-based release/push triggers are configured in the Notra dashboard (Automat
 
 ## Docs
 
-- Product: [docs.usenotra.com](https://docs.usenotra.com)
-- Docs index: [llms.txt](https://docs.usenotra.com/llms.txt)
-- MCP: [devtools/mcp](https://docs.usenotra.com/devtools/mcp)
-- CLI: [devtools/cli](https://docs.usenotra.com/devtools/cli)
+- Product: [www.usenotra.com/docs](https://www.usenotra.com/docs)
+- Docs index: [llms.txt](https://www.usenotra.com/docs/llms.txt)
+- MCP: [devtools/mcp](https://www.usenotra.com/docs/devtools/mcp)
+- CLI: [devtools/cli](https://www.usenotra.com/docs/devtools/cli)
 - Cursor plugins: [cursor.com/docs/plugins](https://cursor.com/docs/plugins)
 
 Logo from [Notra brand guidelines](https://www.usenotra.com/brand).

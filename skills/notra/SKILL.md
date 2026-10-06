@@ -7,7 +7,7 @@ description: Routes Notra work to the right skill and MCP tools. Use when the us
 
 Notra turns shipped work (merged PRs, releases, commits, Linear issues) into draft changelogs, blog posts, LinkedIn/Twitter posts, and images in the workspace brand voice.
 
-Official docs: [docs.usenotra.com](https://docs.usenotra.com) — start at the index: https://docs.usenotra.com/llms.txt
+Official docs: [www.usenotra.com/docs](https://www.usenotra.com/docs) — start at the index: https://www.usenotra.com/docs/llms.txt
 
 Dashboard: [app.usenotra.com](https://app.usenotra.com)
 
@@ -48,13 +48,13 @@ If MCP is missing or unauthorized:
 
 ## Docs
 
-Prefer current docs over training data. Fetch https://docs.usenotra.com/llms.txt, then the matching `.md` page.
+Prefer current docs over training data. Fetch https://www.usenotra.com/docs/llms.txt, then the matching `.md` page.
 
 Key pages:
 
-- [How it works](https://docs.usenotra.com/concepts/how-it-works.md)
-- [MCP](https://docs.usenotra.com/devtools/mcp.md)
-- [CLI](https://docs.usenotra.com/devtools/cli.md)
-- [Brand voice](https://docs.usenotra.com/concepts/brand-voice.md)
+- [How it works](https://www.usenotra.com/docs/concepts/how-it-works.md)
+- [MCP](https://www.usenotra.com/docs/devtools/mcp.md)
+- [CLI](https://www.usenotra.com/docs/devtools/cli.md)
+- [Brand voice](https://www.usenotra.com/docs/concepts/brand-voice.md)
 
 Full MCP tool map: [tools.md](tools.md)
